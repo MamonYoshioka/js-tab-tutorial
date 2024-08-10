@@ -21,3 +21,6 @@
             - 3-6-2-2. 関数内にpreventDefaultを宣言も忘れずに！
         - 3-6-3. navの0個目がクリックされたら関数が動くようにする：addEventListener
         - 3-6-4. navの全てに対応するように繰り返し処理を書く
+
+## 参考動画・記事
+[![デモ動画](https://img.youtube.com/vi/OSQ1LnU9SCw/0.jpg)](https://youtu.be/OSQ1LnU9SCw?si=5Hp1hu2fSwT59WaO)
